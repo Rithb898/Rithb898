@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FitForJob - AI Application Assistant<br>🌱 I’m currently learning Next.JS, React Native<br>👨‍💻 All of my projects are available at https://rith.is-a.dev/<br>💬 Ask me about React, TailwindCSS, Next.JS<br>📫 How to reach me rithcoderr@gmail.com
+🔭 I’m currently working on Analyzume - AI Resume Analyzer<br>🌱 I’m currently learning Next.JS, Database.<br>👨‍💻 All of my projects are available at https://rith.is-a.dev/<br>💬 Ask me about React, TailwindCSS, Next.JS<br>📫 How to reach me rithcoderr@gmail.com
 
 
 ## 🌐 Socials:
