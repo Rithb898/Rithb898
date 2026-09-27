@@ -8,6 +8,7 @@ I build **production web applications, AI-powered products, developer tools, and
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rithbanerjee.site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rithbanerjee.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rith_Banerjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rith-banerjee)
+[![X](https://img.shields.io/badge/X-@rithcoderr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rithcoderr)
 
 </div>
 
@@ -27,13 +28,17 @@ I build **production web applications, AI-powered products, developer tools, and
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,bun,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,bun,nodejs,express,tauri&theme=dark" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" title="React Native" />
 </p>
 
 ### Database & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase&theme=dark" />
+  &nbsp;
+  <img height="48" width="48" src="https://trpc.io/img/logo.svg" alt="tRPC" title="tRPC" />
 </p>
 
 ### AI
@@ -53,13 +58,19 @@ I build **production web applications, AI-powered products, developer tools, and
     <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png">
     <img height="48" width="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini.png" alt="Gemini" title="Gemini">
   </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/groq.png">
+    <img height="48" width="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/groq.png" alt="Groq" title="Groq">
+  </picture>
 </p>
 
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,githubactions,linux,bash,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,git,githubactions,linux,bash,vscode,postman&theme=dark" />
 </p>
+
 
 ## 🔭 What I'm Working On
 
@@ -69,6 +80,7 @@ I build **production web applications, AI-powered products, developer tools, and
 - 🛠️ Developer tools and automation
 - ☁️ Self-hosted infrastructure, Docker and VPS deployments
 
+
 ## 📊 GitHub
 
 <div align="center">
@@ -77,12 +89,11 @@ I build **production web applications, AI-powered products, developer tools, and
 
 </div>
 
----
 
 <div align="center">
 
 ### Building things that solve real problems.
 
-[Portfolio](https://rithbanerjee.site) · [LinkedIn](https://linkedin.com/in/rith-banerjee)
+[Portfolio](https://rithbanerjee.site) · [LinkedIn](https://linkedin.com/in/rith-banerjee) · [X](https://x.com/rithcoderr)
 
 </div>
